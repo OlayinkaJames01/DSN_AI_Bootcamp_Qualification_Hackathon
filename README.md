@@ -1,8 +1,4 @@
 ## DSN_AI_Bootcamp_Qualification_Hackathon
-
-##### I ranked 249th Position among among 1095 Data-Scientist that enrolled for the hackathon after notebook evaluation for the qualification 
-##### On Zindi_Leaderboard, I ranked 301th Position with as score of 0.844475502 (84.4475502%)
-
 ###### Hackathon Link
 https://zindi.africa/hackathons/dsn-ai-bootcamp-qualification-hackathon
 
